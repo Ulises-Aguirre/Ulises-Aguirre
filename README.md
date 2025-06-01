@@ -1,4 +1,4 @@
-### Hola, soy Aguirre, Ulises. 👋
+### Hola, soy Aguirre, Ulises.
 
 Completé las carreras de Análisis de Datos y de Ciencia de Datos, así como un curso de Python, en [Coderhouse](https://plataforma-beta.coderhouse.com/). Además, soy una persona que busca constantemente nuevas formas de aprendizaje y tiene una gran curiosidad por explorar y adquirir conocimientos en diversos campos. Mi pasión por la tecnología y el análisis de datos me impulsa a seguir formándome y a estar al tanto de las últimas tendencias y avances en el sector. Mi objetivo es aplicar estos conocimientos para resolver problemas complejos y contribuir al desarrollo de proyectos innovadores.
 
